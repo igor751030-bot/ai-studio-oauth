@@ -12,5 +12,5 @@
   "response_types": [
     "code"
   ],
-  "scope": "convai_read"
+  "scope": "convai_read text_to_speech speech_history_read flows image_video_generation voice_generation"
 }
